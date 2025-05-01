@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" alt="Banner" width="680" height="240">
+</p>
 
 # 💫 About Me:
 ¡Hola! Soy Jesús, desarrollador de software especializado en la creación de aplicaciones multiplataforma, con experiencia en entornos de escritorio, bases de datos relacionales y automatización de procesos. Me dedico al diseño y desarrollo de soluciones eficientes que combinan funcionalidad, rendimiento y una buena experiencia de usuario.<br><br>He trabajado en proyectos como plataformas de distribución de videojuegos, sistemas de actualización automática de aplicaciones, y herramientas de gestión personalizadas. Utilizo tecnologías como Java, C#, WPF, PostgreSQL y Git, y me apoyo en metodologías que garantizan un flujo de trabajo estructurado y escalable.<br><br>Me apasiona programar, aprender constantemente y asumir nuevos retos que me permitan crecer como profesional del software.
